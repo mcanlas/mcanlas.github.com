@@ -1,3 +1,6 @@
+---
+tags: quora
+---
 do i need a degree in software?
 
 meritocracy, degree not important

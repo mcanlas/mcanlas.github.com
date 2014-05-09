@@ -1,3 +1,6 @@
+---
+tags: quora
+---
 This question is from Quora. *What is an implementation detail?*
 
 **Implementation details are where the mechanics of a system begin to betray the model.**
