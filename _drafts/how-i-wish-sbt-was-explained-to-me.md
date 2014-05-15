@@ -1,2 +1,5 @@
 - intro to build tools
 - default or multipe projects
+- name and organization settings useful when artifacts are published (and then to be depended on)
+  - default name for root project is the name of the checkout direct (usually git repo name)
+  - default organization is "default" (when publishing locally)
