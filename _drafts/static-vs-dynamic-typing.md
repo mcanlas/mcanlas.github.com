@@ -7,3 +7,6 @@ I think making a dynamic language scale requires discipline. And programmers are
 Static languages do incur a nominal "cost" in the prototyping stages, but I feel that is a drop in the ocean compared to the amount of scale you get per unit of discipline spent.
 
 TODO: provide code example
+
+* perl2java
+* https://speakerdeck.com/ryanlecompte/confessions-of-a-ruby-developer-whose-heart-was-stolen-by-scala
