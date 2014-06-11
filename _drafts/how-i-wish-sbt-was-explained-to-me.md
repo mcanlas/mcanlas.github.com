@@ -4,3 +4,4 @@
   - default name for root project is the name of the checkout direct (usually git repo name)
   - default organization is "default" (when publishing locally)
 - sbt uses reflection to specify a project's default name (surprise!)
+- .sbt and .scala files are the same, functionally. one attempts to be a dsl, lower in power, higher in ux (allegedly)
