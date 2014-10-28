@@ -5,3 +5,4 @@
 * with tail recursion, stack depth is cheap
 * functional without tail recursion (perl!) is an odd fit; religious belief only w/ no practical benefit
 * more scala, but if you think of functions as objects (as they are in scala), they have very regular interfaces (apply)
+* fold left as a method of iteration (i.e. divorcing iteration from action/verbage)
