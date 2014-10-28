@@ -6,3 +6,4 @@
 * functional without tail recursion (perl!) is an odd fit; religious belief only w/ no practical benefit
 * more scala, but if you think of functions as objects (as they are in scala), they have very regular interfaces (apply)
 * fold left as a method of iteration (i.e. divorcing iteration from action/verbage)
+* tail recursion is a venn diagram (i.e. specific type of recursion where the implementation cost COULD BE cheap)
