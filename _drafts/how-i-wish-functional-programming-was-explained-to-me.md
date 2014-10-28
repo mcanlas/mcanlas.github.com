@@ -4,3 +4,4 @@
 * state manipulation is moved to the stack (where no one cares about manipulation, it's automatic)
 * with tail recursion, stack depth is cheap
 * functional without tail recursion (perl!) is an odd fit; religious belief only w/ no practical benefit
+* more scala, but if you think of functions as objects (as they are in scala), they have very regular interfaces (apply)
