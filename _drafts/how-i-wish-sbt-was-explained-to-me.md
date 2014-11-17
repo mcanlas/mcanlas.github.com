@@ -6,3 +6,4 @@
 - sbt uses reflection to specify a project's default name (surprise!)
 - .sbt and .scala files are the same, functionally. one attempts to be a dsl, lower in power, higher in ux (allegedly)
 - parsing multiple commands as arguments, each command is an sbt phrase
+- the whole "sbt release" process (it's a plugin)
