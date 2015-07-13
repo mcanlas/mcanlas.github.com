@@ -4,3 +4,12 @@
 * immutability is actually about the isolation of side effects (moving them to known boundaries rather than sprinkling them), keeping a functional core
 * the collections library is born out of mutability (traversable)
 * don't chain collections operations eagerly
+* scala's success is the choices they made for syntax
+  * no blessed/collections literals
+  * vals are defs
+  * operators are defs
+  * apply is blessed
+  * right colon is blessed (dumb)
+  * operator precedence?
+  * point free notation
+  * implicits
