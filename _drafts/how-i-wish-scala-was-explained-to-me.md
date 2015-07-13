@@ -3,3 +3,4 @@
   * such that it is easy to map functional concepts to imperative building blocks
 * immutability is actually about the isolation of side effects (moving them to known boundaries rather than sprinkling them), keeping a functional core
 * the collections library is born out of mutability (traversable)
+* don't chain collections operations eagerly
