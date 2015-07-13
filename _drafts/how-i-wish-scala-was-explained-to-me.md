@@ -13,3 +13,4 @@
   * operator precedence?
   * point free notation
   * implicits
+* an implicit is always resolved statically and can be injected manually
