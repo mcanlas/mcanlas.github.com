@@ -8,3 +8,4 @@
 * fold left as a method of iteration (i.e. divorcing iteration from action/verbage)
 * tail recursion is a venn diagram (i.e. specific type of recursion where the implementation cost COULD BE cheap)
 * given that "all languages are turing complete", it is a necessity that accessibility is a critical factor of language use/adoption
+* about deferring your commitments (error handling, optionality, structured mutability), and isolation/compartmentalization of functions vs side effects
